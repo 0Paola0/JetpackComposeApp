@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469341745415",
+    "project_id": "kotlin-firebase-4947a",
+    "storage_bucket": "kotlin-firebase-4947a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469341745415:android:280338588d493c32bb95a2",
+        "android_client_info": {
+          "package_name": "edu.udb.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469341745415-q8fdllesbpvo05ao4tas1idalnnopjqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCldxHW0o8bu3FO7fW1O0kB6hVYtz7MKCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469341745415-q8fdllesbpvo05ao4tas1idalnnopjqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
